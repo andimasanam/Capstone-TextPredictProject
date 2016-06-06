@@ -13,6 +13,6 @@ shinyUI(fluidPage(
     fluidRow('(Example: "I want to go" or "She used to")'),
     verbatimTextOutput("oWordPredictions"),
     
-    hr(),
+    hr()
 )
 )
